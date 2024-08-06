@@ -16,10 +16,6 @@
         After finding two groups, each incorrect selection will count as a strike.
         Three strikes and it's game over!
       </p>
-      <hr class="my-6">
-      <p>
-        This project is not affiliated with <i>Only Connect</i> or the BBC in any way.
-      </p>
     </div>
   </div>
 </template>
